@@ -8,7 +8,7 @@
 
 ###
 
-Hey there! I’m **Tondra**, a passionate **Frontend Web Developer** who enjoys creating seamless and engaging digital experiences. I love working with modern web technologies and building applications that make an impact.
+I'm Tondra, a creative Frontend Web Developer with a passion for crafting intuitive and dynamic user experiences. I enjoy working with the latest web technologies to build applications that are both functional and visually appealing.
 
 ###
 
@@ -57,8 +57,7 @@ Hey there! I’m **Tondra**, a passionate **Frontend Web Developer** who enjoys 
   <img width="15" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
  
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
+ 
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="15" />
@@ -85,8 +84,7 @@ Hey there! I’m **Tondra**, a passionate **Frontend Web Developer** who enjoys 
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="13" />
+  
  
 </div>
 
